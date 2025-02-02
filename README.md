@@ -4,6 +4,6 @@ Benchmarking LLMs on the MMLU dataset. This code benchmarks two DeepSeek LLM mod
 
 To run the code use: 
 
-'''
+```
 accelerate launch MMLU_Evaluation.py
-'''
+```
