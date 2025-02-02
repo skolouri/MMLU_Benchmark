@@ -1,2 +1,2 @@
-# MMLU_Colab_Benchmark
-Benchmarking LLMs on the MMLU dataset
+# MMLU_Benchmark
+Benchmarking LLMs on the MMLU dataset.
